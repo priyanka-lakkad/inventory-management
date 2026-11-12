@@ -6,6 +6,10 @@ export default {
     orders: '注文',
     finance: '財務',
     demandForecast: '需要予測',
+    reports: 'レポート',
+    collapse: 'サイドバーを折りたたむ',
+    expand: 'サイドバーを展開',
+    menu: 'メニュー',
     companyName: '触媒コンポーネンツ',
     subtitle: '在庫管理システム'
   },
